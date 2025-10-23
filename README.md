@@ -1,1 +1,9 @@
-VLSI 期末專案 (Final Project) - 設計並模擬了一個 32-bit 條件式進位加法器 (Conditional Carry Adder) 。此架構採用互補式傳輸閘邏輯 (CPL) 與多級 MUX 樹狀結構 來最佳化進位選擇路徑，並使用 HSPICE 完成了速度與功耗分析 。
+# VLSI 期末專案 (Final Project)
+
+### 32-bit 條件式進位加法器 (Conditional Carry Adder)
+
+* **設計：** 設計並模擬一個 32-bit 條件式進位加法器。
+
+* **架構：** 採用互補式傳輸閘邏輯 (CPL) 與多級 MUX 樹狀結構來最佳化進位選擇路徑。
+
+* **分析：** 使用 HSPICE 完成電路的速度與功耗分析。
